@@ -1,3 +1,5 @@
+# NASKA-IT fork customized for private projects !!!
+
 # A trait to make Eloquent models translatable
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-translatable.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-translatable)
